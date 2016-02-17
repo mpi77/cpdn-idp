@@ -1,0 +1,4 @@
+{{ getDoctype() }}
+<html>
+{{ content() }}
+</html>
