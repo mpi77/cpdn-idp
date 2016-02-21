@@ -6,7 +6,7 @@ use OAuth2\Response;
 
 class AuthorizationController extends ControllerBase {
 	private static $clients = array(
-			"javaDC2" => array(
+			"editorV1" => array(
 					"network / schemes",
 					"network / elements",
 					"network / maps",
